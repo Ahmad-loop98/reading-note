@@ -1,1 +1,7 @@
 # reading-note
+Programmers faced many challenges through time , since there is no open platform to share code or a database to store your code and most of your code in a one file.
+>Many years ago, programmers created Local Version Control systems. A Local VCS entails one database on your hard disk that stores changes to files>
+since the need to modify and update an ideas has rised and that is a version control so you can revisit your file , there are local , centralized and distributed version control , a centralized offers a server storing all changes while distributed offers all vulenrabillites of centralized but if CVS (centralized) goes down developers cant make change and your work may lost , so DVCS as git made mirror repositories to save changes.
+>Git is a DVCS that stores data in a file system made up of snapshots. Each time you save a changed version of your project — called commit — Git creates a snapshot of the file and stores a reference>so git is like a social media platform as we can post any thing in facebook for example , here we can share code and make some changes on it since there is a good practice.
+it is possible to write a code through git by using some symbols as >,**,# which is markdown which differ a little than usual html and css but first you have to make a page on your repository and update your changes and ideas through commit after adding a comment so you are sure you in a safe side.
+Good thing to mention that git is an alternative way to code other than code editors such as Visual studio.
